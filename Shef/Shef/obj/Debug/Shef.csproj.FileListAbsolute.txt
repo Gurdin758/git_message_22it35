@@ -1,0 +1,10 @@
+C:\Users\admin_0\source\repos\Shef\Shef\bin\Debug\Shef.exe.config
+C:\Users\admin_0\source\repos\Shef\Shef\bin\Debug\Shef.exe
+C:\Users\admin_0\source\repos\Shef\Shef\bin\Debug\Shef.pdb
+C:\Users\admin_0\source\repos\Shef\Shef\obj\Debug\Shef.csproj.AssemblyReference.cache
+C:\Users\admin_0\source\repos\Shef\Shef\obj\Debug\Shef.Form1.resources
+C:\Users\admin_0\source\repos\Shef\Shef\obj\Debug\Shef.Properties.Resources.resources
+C:\Users\admin_0\source\repos\Shef\Shef\obj\Debug\Shef.csproj.GenerateResource.cache
+C:\Users\admin_0\source\repos\Shef\Shef\obj\Debug\Shef.csproj.CoreCompileInputs.cache
+C:\Users\admin_0\source\repos\Shef\Shef\obj\Debug\Shef.exe
+C:\Users\admin_0\source\repos\Shef\Shef\obj\Debug\Shef.pdb
